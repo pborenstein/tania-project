@@ -5,6 +5,18 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setTemplateFormats(["css","md"])
 
 
+  //  Set our markdown processor just how we like it.
+
+  const md = require("markdown-it")({
+                      html: true,
+                      breaks: true,
+                      linkify: false,
+                      typographer: true
+                    })
+
+  eleventyConfig.setLibrary("md", md)
+
+
   return {
     dir: {
       output:   "_site",
