@@ -19,11 +19,11 @@ module.exports = function (eleventyConfig) {
 
   return {
     dir: {
-      output:   "_site",
-      input:    "src",
-      includes: "_includes", //  These are inside the `input` directory
-      data:     "_data"
+      output: "dist",
+      input:  "src",
+        includes: "_includes", //  These are inside the `input` directory
+        data:     "_data"
     },
-    passthroughFileCopy: true
+   passthroughFileCopy: true
   }
 }
