@@ -471,7 +471,34 @@ git tag --help
 git tag weird-thing
 ```
 
-So around
+Everything is going well, until I hit
+a line that doesn't match. In fact
+nothing matches after line 865
+(now marked with `****` in `russian.md`)
+
+```
+commit 2ff493f33330167fdc06a9fa139e5f1dd38284e2 (tag: weird-thing)
+Author: Philip Borenstein <pborenstein@gmail.com>
+Date:   Tue Aug 11 00:08:07 2020 -0400
+
+    Something weird in our OCR copy
+
+    up until line 865 the text tracks with the
+    image in the PDF. Then it doesn't
+
+    WTF
+```
+
+Turns out that Select All / Copy works
+as long as the OCR scans down one page
+of a spread and then down the other.
+And that's exactly what happened unti
+around the middle of page 22 when the
+OCR started scanning across the spread
+instead.
+
+So I tagged the state.
+
 
 ```
 git ci -am 'before reprocessing'
@@ -480,6 +507,11 @@ more /usr/local/bin/img2webp
 man img2pdf
 img2pdf --help | bbedit
 ls taniapieces/
+```
+
+So we start again.
+
+```
 cd librotiataniaruso/
 img2pdf (seq 3 27).jpeg -o out.pdf
 open out.pdf
@@ -489,6 +521,12 @@ convert 10.jpeg -negate -threshold 100 -negate result.jpg
 rm result.jpg outgray.pdf
 convert 10.jpeg -lat 25x25+10%  result.jpg
 open result.jpg
+```
+
+This is where I learn about mutool,
+which had to be built from source.
+
+```
 brew search mutool
 cd ~/Desktop/mutools/
 tar xvzf mupdf-1.17.0-source.tar.gz
@@ -497,6 +535,15 @@ more README
 make HAVE_X11=no HAVE_GLUT=no prefix=/usr/local install
 mutool --help
 mutool poster
+```
+
+The poster subcommand slices up PDFs.
+This command means:
+
+Split each page along the x-axis
+into two sides.
+
+```
 mutool poster -x 2 out.pdf split.pdf
 ls ..
 cp split.pdf ../russian-single-page.pdf
