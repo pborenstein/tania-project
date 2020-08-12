@@ -394,7 +394,10 @@ mkdir src
 cd
 ```
 
-whew!
+Whew! It's hard to create a new
+Eleventy project from scratch.
+Luckily I have this nifty
+minimal-11ty repo.
 
 ```
 k /Users/philip/projects
@@ -418,6 +421,13 @@ git add .eleventy.js
 open russian.pdf
 npm upgrade
 npm upgrade dependency-graph entities
+```
+
+Y'know, it should be easier to set up
+a template project.
+Because grrr.
+
+```
 rm -rf node_modules/
 npm install
 npm outdated
@@ -428,9 +438,29 @@ git ci -am wip
 vim .eleventy.js
 rm -rf _site/
 more .eleventy.js
+```
+
+Everything works now.
+
+```
 npx eleventy --serve
 pbpaste > .fish_dir_title
 vim .fish_dir_title
+```
+
+Here I'm correcting the Cyrillic text
+against the images in the PDF.
+You can tell because I typed
+`git st` and it came out
+as `гит ст`. (Russian Phonetic keyboard.)
+Some Git shenanigans.
+Like one day I'm going to get
+my stuff done without troubleshooting
+some tool that stopped working
+all the sudden.
+
+
+```
 гит ст
 git ci
 git config --get commit.template
@@ -441,8 +471,7 @@ git tag --help
 git tag weird-thing
 ```
 
-Looks like this is where I gave up
-and started over.
+So around
 
 ```
 git ci -am 'before reprocessing'
