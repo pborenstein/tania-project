@@ -1,15 +1,36 @@
 # Tania Project
 
-- installed Imagemagic
-- installed img2pdf
-- installed mutools
+Worklog for the Tania Project
 
-img2pdf (seq 3 27).jpeg -o out.pdf
+Plan:
 
-(rename out.pdf to russian.pdf)
+- turn the JPGs into a single PDF
+- use PDFPenPro to OCR the Cyrillic
+- get the Cyrillic text into a UTF-8 text file
+- use Google Translate to translate that file into
+  whatever Google can translate to
 
-translate-shell chokes if you give it too much
-(actually: Google throttles it)
+[The Raw History File](#the-raw-history-file) is a log
+of what I've done (with narrative!).
+
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**On this page**
+
+- [Tania Project](#tania-project)
+  - [what is](#what-is)
+    - [`./`](#)
+    - [`librotiataniaruso/`](#librotiataniaruso)
+    - [`taniapieces/`](#taniapieces)
+    - [`russian.pdf`](#russianpdf)
+  - [tools](#tools)
+    - [mutools](#mutools)
+  - [The Raw History File](#the-raw-history-file)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
 
 
 ## what is
@@ -128,15 +149,16 @@ I think the last became `rawtranslation.txt`.
 The less we say about this, the better.
 
 
+### `russian.pdf`
+
+
 ## tools
 
 The tools they used.
 
--   `imagemagick`<br>
-
-    ```
-    $
-    ```
+-   `imagemagick`
+-   `img2pdf`
+-   `mutools`
 
 ### mutools
 
@@ -146,8 +168,6 @@ $ cd mupdf-1.17.0-source/
 $ more README
 $ make HAVE_X11=no HAVE_GLUT=no prefix=/usr/local install
 ```
-
-### `russian.pdf`
 
 
 
