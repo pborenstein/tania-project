@@ -1,11 +1,13 @@
 ---
 title: Traducción Provisional (ES)
+description: Machine translation of Russian text to Spanish.
+date: 2020-01-04
 ---
 
 
-Prefacio
+### Prefacio
 
-Aunque mi nombre está en la portada, no soy el autor de este libro. Consiste íntegramente en las memorias de mi madre, Tatyana (Tayba) Izrailevna Mostkova, escritas en el período 1976-1980, su carta personal a Boris P, donde cuenta la biografía y la vida de mi padre, Baskin Joseph Moiseevich, y varias historias orales escrito de sus palabras por mi padre. Acerca de reunirse con familiares en México y Estados Unidos 40 años después, contó mi madre en cartas desde allí.
+Aunque mi nombre [Nahum Baskin] está en la portada, no soy el autor de este libro. Consiste íntegramente en las memorias de mi madre, Tatyana (Tayba) Izrailevna Mostkova, escritas en el período 1976-1980, su carta personal a Boris P, donde cuenta la biografía y la vida de mi padre, Baskin Joseph Moiseevich, y varias historias orales escrito de sus palabras por mi padre. Acerca de reunirse con familiares en México y Estados Unidos 40 años después, contó mi madre en cartas desde allí.
 
 También consideré posible, después del relato de mi madre sobre la vida de mi padre, adjuntar al libro el original de su declaración al Fiscal General de la URSS, escrita en diciembre de 1939, y documentos sobre su liberación del exilio, revisión del caso y rehabilitación. Mi padre también dejó recuerdos de su vida, algunos de ellos fueron publicados en Rusia e Israel en ruso, y algunos todavía están esperando a sus investigadores.
 
@@ -15,13 +17,13 @@ Creo que si mi madre aún viviera y publicó sus memorias, se las dedicó a su m
 
 Por mi parte, lo dedico a la bendita memoria de mis familiares, asesinados en 1942 en el gueto de Braslav.
 
-2
+## 2
 
 Recordando la infancia
 
 Mi primer ???? los recuerdos son compartidos por el rasgo - antes del incendio y el segundo. Antes del incendio, probablemente durante los años de la revolución, es decir. hasta 1918-1919 las impresiones de imágenes arqueadas son pocas. Me levanto temprano con una anguila, en ???? Todavía está oscuro y en la pared hay una lámpara con una luz mate, la decoración es decente, los muebles son bastante ricos. Este es el comedor de mi casa, probablemente la casa en la que nací hace 7-8 años. Ahora la puerta del dormitorio está medio cerrada, ¿papá está de pie ???? mira en el hueco. Allí, en el dormitorio, en una amplia cama doble, toda de blanco, yace mi madre. Ella está dando a luz. a sus pies está una comadrona, una Keilya (Klara) corpulenta y bondadosa, como me parece que se llamaba, y tal vez Rosa. Sólo puedo adivinar cuál de mis hermanos dio a luz mi madre: Mikhail, nacido en 1917, Lyova, 1914. Probablemente fue en 1917 y yo tenía 6 años. Había una calle, por supuesto. de madera, las casas se levantaron a menudo, y probablemente todo se incendió en un futuro próximo. Antes que yo, 3 años antes, nació mi hermano mayor Abram, y en total mi familia lo creó, probablemente en 1907-1908. Todos mis otros recuerdos se remontan a años posteriores. Entonces, recuerdo la ocupación polaca. Corrí a la escuela, el primer grado, y recordé que no había bolígrafo. Corrí a casa y regresé de inmediato. Recuerdo cómo ahora, la patrulla me detuvo y me devolvió a casa, y todos no fuimos a ninguna parte, nos sentamos en nuestra casa, en nuestro patio, todos los vecinos estaban en la puerta y esperaron ... alguien venía y algo. algo requerirá. Todos sumaron y se quedaron con el dinero para pagar. Esto ya estaba en otra casa, al otro lado de la calle Sadovaya, y del propietario Wolfson en el patio, en la dependencia, al lado del gran baño de cemento. El dueño mismo vivía en la gran casa de enfrente, que pronto fue expulsado (trasladado a 3 habitaciones) por los soviéticos, y la casa fue ocupada por la aduana. Todo esto sucedió unos años después, después del incendio. Recuerdo toda la calle quemada, había chimeneas de ladrillo y ruinas. En ellos jugábamos a las escondidas, nos escondíamos de nuestros padres y nos servían de refugio en días festivos y entre semana. Vivimos en esta chatarra hasta 1928-29, y luego papá, Abram y mamá con niños se fueron de aquí. Acerca de este período
 
-3
+## 3
 
 Recuerdo más mi vida y quiero escribir sobre mis impresiones sobre mis antepasados, sobre todo sobre lo escuchado.
 
@@ -31,7 +33,7 @@ En la parte trasera del patio había una casa antigua, dividida en dos mitades c
 
 A la izquierda de la entrada había un pasillo y un pequeño dormitorio. Todo el mobiliario ya era más que pobre, pero en el pasillo se conservaba del viejo apartamento un espejo con hermosas piernas y un gabinete: una cómoda con cajones secretos y una capota convertible. Esto es todo lo que queda de la prosperidad anterior y, según las historias de mi madre, todo esto fue recogido para mis padres de la casa rica de los parientes de mi madre, Polyak, que probablemente se fue, huyó a Moscú, Leningrado o incluso al extranjero. Mamá no sabía exactamente adónde fueron. Pero había gente rica de apellido Polyak, de la que provenía mi abuela empobrecida Pesya Polyak, que se casó con un chico pobre, pero muy inteligente y científico y, como decían, económico,
 
-4
+## 4
 
 aquellos. Venerable, con confianza, Nahmani Noruhilmai, le dio 11 hijos, de los cuales dos sobrevivieron hasta la vejez. iomiiio, cómo mi padre se escondía en las ruinas del incendio, de quien no sé. Probablemente por movilización. Estaba hambriento, haciendo su propio estómago. Muchos se estaban cortando los dedos. Recuerdo que ya durante la revolución la ciudad ardía, nuestra mercería ardía, la propiedad y todas las fortunas de mis padres, el bazar ardía y nosotros, los niños, nos sentamos con un vecino en la ventana y miramos la llama y lloramos que todavía no había ni mamá ni papá.
 
@@ -39,7 +41,7 @@ En estos años lejanos de la infancia, nuestra abuela Khaya vivía con nosotros 
 
 Esto fue a finales del siglo pasado. Los hermanos mayores se fueron y mi futuro papá de 15 años con ellos. Llegaron a Mississippi y vivieron en la pobreza, haciendo pequeños negocios y artesanías, y sus tíos estaban haciendo algo por el propietario. Eran vendedores ambulantes, vendedores ambulantes, con un saco al hombro, llevaban todo tipo de pequeños artículos, en su mayoría mercería. Cuando nosotros, los niños, estábamos creciendo y pedimos comer en esos 20 hambrientos, papá nos dijo: “Aquí en Estados Unidos no pedimos comer, pero el dueño nos dijo: mira la salchicha y come pan, bebe agua fría y apóyate en estufa caliente - tendrá té al estilo americano. Debería ser así ". Sobre mí
 
-cinco
+## 5
 
 los vecinos dijeron: "Una niña maravillosa, juega todo el día y ni siquiera pide comida".
 
@@ -47,7 +49,7 @@ los vecinos dijeron: "Una niña maravillosa, juega todo el día y ni siquiera pi
 
 Así, mi padre pasó por el primer curso de vida en Estados Unidos. Cuando creció y comenzó a casarse, extrañaba un hogar lejano, o tal vez no encontró una novia para él, pero ya tenía más de 25 años cuando regresó a Rusia y se convirtió en el prometido de mi futura madre, ya un poco anticuada, de 27 años. Pero sobre mamá más tarde. Mi papá era por naturaleza una persona amable, dócil, pero América se depositó en él por la tacañería: la frugalidad, la rudeza, el egoísmo y, por supuesto, la falta de alfabetización e inteligencia. Recuerdo que
 
-6
+## 6
 
 estaba ordenado. Un traje y un sombrero (novedad en ese momento) siempre colgaban en el armario, como era de esperar, las botas (y había varios pares de ellas en el momento más difícil de la vida) brillaban y mi rostro se reflejaba en ellas. Los cuellos duros se volvieron blancos y cambiaron. Era pelirrojo, un poco pecoso, mullido, de ojos azules. Así se le apareció a mi madre en 1907.
 
@@ -57,28 +59,33 @@ La abuela Pesa recibió el legado de una tienda de telas, en la que aguantó muy
 
 Entonces, la hija mayor de mi abuelo era económica, inteligente y, debido a la enfermedad de su madre y a los hijos grandes, ella manejaba la casa y
 
-7
+
+## 7
+
 asuntos del abuelo. Mi abuelo era especialista en pieles y otras materias primas agrícolas. Recuerdo que en su apartamento siempre había racimos de hongos secos que olían muy bien. Le trajeron pieles de animales procesadas, y las alisó, las evaluó y, sin engañar, dijo el verdadero precio. Su palabra era ley. Más tarde, en los años 20, fue, desde los primeros antiguos propietarios y pequeños comerciantes, contratado por la aduana soviética ... como especialista con un pago de 25 rublos al mes, fue afiliado al sindicato, lo cual fue muy honorable.
 
 Mi mamá era inteligente y profesional. Se dijo que un día su casa se incendió y que había pieles valiosas en la despensa. El abuelo se levantó de un salto por la noche, estaba confundido y comenzó a orar a Dios. Mi madre en camisón, siendo ya novia, abrió la ventana y tiró todos los bienes, es decir, salvó a mi abuelo y toda su fortuna. O6 se ha dicho de esto muchas veces y en otras ocasiones. Mi madre no recibió educación porque era el mayor de la familia y llevaba todas las cargas del hogar. Me atraía mi madre en la política, en la vida pública. Participó en la ayuda mutua, se hizo amiga de los pobres y empobrecidos, recaudó ayuda para ellos y se ayudó a sí misma en todo lo que pudo.
 
 Entonces, ella era amiga de Chaya Rabinovich. Su marido era un hombre muy educado, pero enfermo y jorobado, y esta pobre mujer sola tenía que alimentar a toda su numerosa, dotada y empobrecida familia. Mamá los ayudó todo el tiempo, y en sus años difíciles ayudó a través de las personas, es decir. recaudado donaciones para ellos. Mi madre no era miembro del partido Bund 1, pero era cercana a ellos y cercana al movimiento revolucionario. ¿Por qué una mujer tan bonita e inteligente se sentaba en las niñas? Sucede. Tenía un hombre que la amaba mucho, pero era zapatero y no era rival para ella: prestigio. Entonces fue muy importante: los padres no permitían llevar a personas por debajo de su clase. Cuando mamá conoció a papá, se sintió atraída por su aspecto elegante, su compostura, pero su carácter estadounidense tampoco abandonó su mirada. Pero llegó el momento de formar una familia y se casaron. A mamá le dieron una pequeña dote: una tienda de comestibles con corbatas, botones, cintas, que eran cajas no solo en la tienda, sino también debajo de la cama en casa. Nosotros,
 
-8
+## 8
+
 los niños que pronto aparecieron jugaban con esta mercería, pero ella no podía ganarse la vida.
 
 Que recuerdo Me despierto por la noche y escucho llorar a mi madre. Salí descalzo al pasillo, y allí, junto a una estufa caliente, hay papá, mamá y el sobrino de papá de pie allí, un joven de 17-18 años, Tsukovich Israel, hijo de una hermana mayor. Mamá, entre lágrimas ardientes, le dice que papá no le da dinero de por vida y ella no tiene nada para alimentar a sus hijos, y ya eran cuatro y pronto apareció un quinto. Recuerdo cómo papá congelado llegó a casa por la noche, disgustado, triste, cenó solo y cortó cuidadosamente las cortezas del pan colador blanco con un cuchillo afilado, y nosotros, una bandada de animales medio muertos de hambre, nos sentamos en la distancia y lo miramos a la boca. Luego comenzó a contar las ganancias y volvió a juntar todo y lo escondió. Los hermanos, más jóvenes que yo durante 3 y 6 años, crecieron débiles y con el vientre redondeado por el exceso de Bulba que comían. Se sentaron a comer patatas de hierro fundido, grandes, quebradizas (no las rechazaría ahora), y un vaso de pepinillo encurtido y devorado con deleite. Lsva se llamaba así: patata. Estábamos vestidos de alguna manera. Desde principios de la primavera, caminaban descalzos, con los pies de puntillas. La ropa pasó de senior a junior. No recuerdo que comiéramos suficiente crema agria, huevos e incluso leche. Recuerdo las patatas. Llevaron una manzana o una pera a la escuela. Fue el más barato.
 
 También tuvimos días felices. Primavera, abril. Pronto llegará la Pascua. Todo el mundo está preocupado. Los marcos de invierno se exponen y se sacan al ático. Mi deber es lavar los marcos, lavar el vidrio con jabón y luego limpiarlo a fondo. Hay una lámpara de metal colgante sobre la gran mesa del comedor en el pasillo, que he envuelto en papel de seda verde. Todos los utensilios de cocina se limpian a fondo hasta obtener un brillo de cobre, hasta que se blanquean y luego se fríen al fuego. Después de todo, todo es necesario para la Pascua, todo nuevo, estéril. Abajo el pan, los cereales, todo debería ser Pascua: matzá, matzá, vino especial, carne, pollos, grasa de Pascua. Los platos viejos se sacan a la despensa, al ático, se lava, pinta, barre todo el apartamento y se traen platos nuevos, frescos, especialmente de Pascua. Nosotros, los niños, arrastramos todo lo que era posible hasta el río, había arena y era libre para lavar y limpiar todo. Mamá está lavando la ropa a veces incluso invita a la lavandera. Todo el lino blanco se hierve, se enjuaga en el río, se almidona y luego se traga no con una plancha, sino con una camilla hasta que brille, hasta que esté suave y terso. Es Pascua.
 
-nueve
+## 9
+
 Pero también hay sábados, festivos. La limpieza y la preparación también están en curso. Incluso el jueves por la noche, mi madre pela muchas zanahorias, las frota en un rallador y prepara una enorme cazuela de barro envuelta en alambre. Esto es tsimes. Se coloca un kugel en las zanahorias (aderezo de harina - masa con un trozo de carne grasosa). En otra olla, también en un cubo, se cuece una compota de frutos secos, principalmente de manzanas y peras. El pollo se sacrifica el sábado. Este también es nuestro trabajo. Lo llevo a la carnicería por un par de kopeks. En algún lugar de la calle de al lado, en una pequeña casa, vive. Sale un carnicero, un hombre delgado con un kipá negro y una chaqueta larga negra, como andan todos los judíos devotos, toma mi pollo por la cruz y se adentra un poco en el jardín. Expone la parte inferior del cuello, arranca un poco de plumas y pica el cuello. Cierro los ojos, la gallina late, tiembla, y luego se calma, la tomo de las piernas y la arrastro a casa. Entonces mi trabajo es arrancarlo. Voy al granero, me pongo un pañuelo en la cabeza peluda, a veces un delantal, y empiezo a pellizcarme las piernas. Luego las alas, y lo más difícil de todas la cabeza. El trabajo no es agradable, sino necesario. Sobre todo a muchos de ellos tuve que desplumar a mi abuelo, cuando vivía sola con él tras la muerte de la abuela Pesya.
 
 A veces se cocinaba carne en lugar de pollo, carne magra. Pero debería haber comido pollo para el sábado, y mi mamá hizo todo lo posible. El viernes mi madre se levantaba muy temprano, encendía la estufa rusa y ponía allí una olla de pollo, zanahorias y cebollas. Era caldo y patatas guisadas con ciruelas pasas. Se llamó golit, luego se colocó una olla de zanahorias: tsimes, compota y café negro (no real, sino un sustituto). Para cuando nos levantamos, mi mamá ya había manejado la estufa y se iba a trabajar, ayudando a mi papá en la tienda, y me dijeron que lavara los pisos, ya estaban pintados, pero ya limpios. Hubo mucho trabajo. Lavé las primeras habitaciones con calma, pero cuando llegó mi turno de llegar a la gran cocina, yo, ya cansada, comencé a fingir. Esquinas saltadas, mal limpiado. Los chicos también querían comer, agarrar algo y los azoté con un trapo húmedo en sus pies descalzos.
 
 Durante todo el día del viernes no comimos nada, solo llevábamos las piezas. Pero el viernes por la noche, cuando se puso el sol y comenzó el tan esperado sábado, cobramos vida. Era necesario en este momento y
 
-diez
+## 10
+
 ir a la casa de baños o en casa a bañarse, limpiar zapatos y ropa. El trabajo principal lo hacía mi madre pulcra y activa, y los papás también tenían miedo.
 
 Entonces, una cena festiva. En una mesa larga, cubierta con un mantel blanco sobre un hule ordinario, hay cubiertos y platos pequeños para arenque o hígado: paté de pollo. Todos limpios, mansos, hambrientos están esperando. Mamá divide el pollo y dice “Pierna de pollo a los hombres, papá y hermano mayor. La familia está en ellos, todo nuestro bienestar. Alas para niñas, crecerán y volarán lejos de nosotros ". -" Mamá, te lo entregaste todo, pero no dejaste nada para ti "-" No, queridos, tengo un culito, me basta ".
@@ -87,7 +94,8 @@ Nos vamos a la cama bien alimentados, hartos, redimidos, y mi madre todavía est
 
 Papá duerme durante el día. Las contraventanas se cierran, todos caminan de puntillas, no se puede hacer ruido, papá está dormido. Todo para el sábado. Para esto puedes estar desnutrido toda la semana, niégate mucho. Pero el sábado es santo, de los santos. Y espera este sábado, a partir del domingo. ¡No sábado! - enciende la luz, apaga, trabaja, cuenta dinero, compra y vende, - puedes descansar, comer, beber, dormir. No está mal. Todavía no he contado todo sobre la Pascua. La Pascua es la fiesta principal de la primavera, cuando una semana de descanso, limpieza, saciedad, placer. El símbolo de la Pascua es la liberación de los judíos del cautiverio. Victoria, parece. Ya he escrito sobre la preparación para la Pascua. Comen matzá en lugar de pan. Blanco fino, pero no estaba allí y comieron espeso, negro, casero, pero matzá y solo matzá. Se hicieron bolas de masa, cereales, harina con huevos. Nuestra
 
-once
+## 11
+
 La matzá se puso en cestas forradas con sábanas blancas en la habitación de nuestra niña, en la pierna - koge, en la esquina, con la esperanza de que las niñas no se complacieran. Pero nos complacimos por la noche: silenciosamente bajo las sábanas mordisqueamos matzá, debo confesar.
 
 Prepararon un vino especial de Pascua y se lo obsequiaron a un ángel - alio - ganova, que llegó como si fuera esa noche. El hijo menor estaba buscando la matzá escondida debajo de la almohada cerca de su padre. Cantaron canciones, preguntaron y respondieron a coro en las canciones. Íbamos a orar todos los días y caminamos en los soleados días de abril. Se olvidaron de todas las penurias, hubo vacaciones con ayuno. Recuerdo este sentimiento. "Ayunaré todo el día". “Aún eres pequeño, medio día es suficiente para ti. - "No, todo el día" - y estoy orgulloso. Entonces, el viernes comimos bien por última vez, pero todo el día del sábado es largo y tenemos hambre. Esperando las estrellas el sábado por la noche, cuando se puede preparar la cena. Ahora usted puede. No hay tiempo para pelar patatas. Mamá lava todo, lo pone en un hierro fundido, llena la estufa con leña de abedul y ahora el hierro fundido está hirviendo. Se limpia el arenque. Tengo cola, pero mi cabeza. Medio de papá. Quien ayunó, el primero en sentarse a la mesa, y qué sabrosas papas con arenque, qué feliz de haber pasado la prueba junto con todos los adultos, ayunó hasta el final.
@@ -96,24 +104,28 @@ Todas estas son vacaciones que recuerdo: se imprimieron en conexión con alegrí
 
 Disentería. La novia de Dweira, Dora, la sobrina de mi padre, vino a vernos. Mamá fue muy, muy amable y se compadeció de todos. En su casa pasó algún tipo de desgracia, tal vez se quedó huérfana y nos la enviaron. Ella era hermosa y majestuosa, pero yo tenía 10 años y
 
-12
+## 12
+
 Roían manzanas del tamaño de una nuez, simplemente metidas, y había en abundancia, alrededor de los jardines no tenían hogar debido al fuego. Solo recuerdo que me enviaron a la farmacia por medicinas, y me avergoncé de abrir la puerta, me senté en la calle y no me atreví a tocar y abrir la puerta de la farmacia; mi tío (el primo de mi madre, Chaim Yudya) trabajaba allí como visualizador. Me senté allí. Luego corrí a casa y mentí que no había medicamentos, pero me dijeron: ¡ya no los necesitaba! No entendí de inmediato e incluso me alegré de que no fuera necesario. Al mirar el rostro sombrío de mi madre, lo entendí. Dweira yacía en el dormitorio, ya muerta. Murió de disentería. Recuerdo que mi madre se rasgó el pelo, también estaba embarazada. A nosotros, los niños, se nos ordenó estrictamente, estrictamente, no recoger ni comer manzanas. En agosto de 1921, mi madre dio a luz a una hija y se llamó Dweira (Dora).
 
 Para agua. El pozo no estaba cerca de nosotros, se tomaba agua para todos los negocios del río. Mamá nos envió a los niños a buscar agua para beber en un pozo bueno y profundo con una grúa en el patio de un hombre rico (probablemente le pagaron por esto). Estaba un poco distante. Era necesario caminar oblicuamente por la antigua calle quemada y cubierta de hierba alta, más allá de las cenizas y las ruinas, alrededor de las cuales las manzanas y las maravillosas peras Slutsk seguían creciendo y floreciendo. Los negocios no eran muy agradables para nosotros y regateamos: a quién ir, ya menudo eludimos. Sin embargo, recuerdo el placer de este evento. Para llevar dos cubos de agua, se colocó un palo largo o incluso 2 palos con asas bien labradas. Corrimos hasta allí en busca de agua, saltando sobre postes, haciendo ruido de cubos. Intentamos ir en compañía. El nombre de los vecinos: vayamos con nosotros por agua. Y caminaron. La grúa en el pozo caminó bien y rápidamente, y la bañera estaba llena de agua burbujeante, fría y sabrosa. Nos servimos tanto como caballos, suspiramos y volvimos a beber (era imposible disfrutar del pozo). Luego vertieron cubos medio delgados. Los postes se enroscaron en el medio de las orejetas de los cubos y se sacaron del patio como un valor inconmensurable. Los equilibraron y en parejas caminaron a lo largo de la hierba profunda y esponjosa, a lo largo del camino pisoteado, descalzos, esforzando su creciente fuerza joven, sintiendo su fuerza muscular. Niños, niñas, todos se regocijaban juntos, se reían del trabajo de NND $ my, necesario y agradable. Nos detuvimos dos veces, MB y Trgeu se tumbaron y miraron hacia arriba, cerrando los ojos. Los postes se enroscaron en el medio de las orejetas de los cubos y se sacaron del patio como un valor inconmensurable. Los equilibraron y en parejas caminaron a lo largo de la hierba profunda y esponjosa, a lo largo del camino pisoteado, descalzos, esforzando su creciente fuerza joven, sintiendo su fuerza muscular. Niños, niñas, todos se regocijaban juntos, se reían del trabajo de NND $ my, necesario y agradable. Nos detuvimos dos veces, MB y Trgeu se tumbaron y miraron hacia arriba, cerrando los ojos. Los postes se enroscaron en el medio de las orejetas de los cubos y se sacaron del patio como un valor inconmensurable. Los equilibraron y en parejas caminaron a lo largo de la hierba profunda y esponjosa, a lo largo del camino pisoteado, descalzos, esforzando su creciente fuerza joven, sintiendo su fuerza muscular. Niños, niñas, todos se regocijaban juntos, se reían del trabajo de NND $ my, necesario y agradable. Nos detuvimos dos veces, MB y Trgeu se tumbaron y miraron hacia arriba, cerrando los ojos.
 
-13
+## 13
+
 e inhalando el aroma del aire fresco, la hierba verde fresca. Tal felicidad se sintió cuando el cuerpo joven estuvo en estrecho contacto con la hierba fresca, húmeda y con olor. Allí crecía hierba, trébol natural o, como dijimos, un establo. Subimos y corrimos hacia las carreras, arrancamos margaritas - grandes, llenas y contadas - amores, disgustos, escupes, besos, apretones al corazón, manda al infierno. Joy no conocía límites.
 
 Nuestra orilla. El río Sluch cruzó por la mitad nuestra hermosa ciudad de Slutsk. Dijeron que vivo al otro lado del río. La calle Sadovaya iba como una viga hacia el río, y como nuestra casa estaba al final, solo teníamos que pasar por la sinagoga y cruzar un camino estrecho y polvoriento y estábamos en el río. La orilla era blanda, arenosa, pisoteada. A ambos lados, más lejos, había maravillosos matorrales de nenúfares, y nosotros, sin temer la profundidad, arrancamos flores de largos tallos en coronas. La orilla nos servía no solo para nadar, sino para divertirnos. Aquí aprendimos a trabajar, algo que no se aprende en ningún taller, lavar cosas pequeñas fue nuestro negocio durante todo el verano, e incluso en invierno íbamos a enjuagar en una avería, sin miedo al frío y al viento. Lavaron todo lo que solo llegaba a las manos y los ojos. La ropa sucia no mentía, la llevamos al río. El lavado se combinó con el baño, es decir Enjabonamos el sucio y lo dejamos al sol para alcanzarlo, y luego enjuagamos bien. A veces tomas algo y nadas con él hasta una profundidad en la que es mejor nadar. También hubo pérdidas. Incluso tuve un gran problema. La tía Malka vino de Moscú, estudió en la Academia Krupskaya. Sin embargo, ya en 1925, cuando tenía 14 años. Llegó con un bonito vestido marquesa oscuro con cuello de encaje blanco y los mismos puños. Se quitó su bonito vestido y se quitó el cuello y los puños para lavarse. Yo, sin preguntar, los tomé, ya que fui a nadar y quise sorprenderla. Imagina que perdí una de mis esposas en el río. No podía admitirlo, dije que había traído todo, estaba perdido en casa, pero aún recuerdo cómo sufrí. Lavamos los platos en el río. Arena, arena, bolígrafos, se quitó cada mota. Y luego se enjuagó y se secó. como una dama, llevábamos una montaña de metal, un bulto de lino. Sí, secaron el lino, incluso extendieron el lino sobre la hierba verde y estaba al sol.
 
-catorce
+## 14
+
 blanqueado. Bañamos a los niños. Las niñas mayores tomaron a los mocosos, zakakany y todo tipo de hermanos y hermanas, los pusieron en un poco de agua en la arena y los restregaron hasta que quedaron blancos, y ambos lloraron y rieron, pero siempre atados a los mayores. Nadamos hasta que nos pusimos azul en la cara, no salimos del agua durante horas. Fuimos a dar lecciones en el río y nos escondimos de mi madre en caso de problemas o lepra también en el río. Cuando fui a ver a mi amiga Perla Rabinovich, no crucé el puente, me quité los pantalones (o íbamos sin pantalones), levanté el vestido por encima del ombligo, cubrí el dobladillo con el hocico y crucé el río. En este río, los adultos también usaban ropa de cama para enjuagarse y traían agua para todas las demás necesidades, y daban de beber a vacas y caballos, etc. El río fue el segundo hogar.
 
 Ha habido ríos y guerras. Dos equipos de chicos de ambos lados del río lucharon con fusiles de madera, lloraron e incluso allí fueron derrotados y vencedores. Teníamos miedo de estas batallas y mi madre no dejaba entrar a los hermanos, que también eran pequeños. Las jóvenes de Troygai, las afueras de la ciudad, también nadaron en el río. Chicas hermosas y robustas. Una unidad militar estaba cerca y no hablaban bien de las niñas. Nadé hasta ellos, pero no los encontré. Esos fueron los años en que se publicó el libro de Veresaev "Detrás de una puerta cerrada", y pensamientos maduros ya pululaban en mi cabeza. Algo me picaba y decidí que tenía una enfermedad grave por bañarme con estas chicas. Aguanté durante mucho tiempo, luego le confesé a mi madre y fuimos al médico. Ella me examinó y dijo "leíste lo que no deberías leer".
 
 Una familia. Me gustaría describir nuestra vida en mis 10-13 años en la familia de mis padres, desde entonces la familia se separó, mi padre se fue y mi abuelo me llevó con él. Entonces, mi madre en agosto de 1921 dio a luz a la más joven, una niña Dweira, Dora. El tiempo fue lento. Nuestra mercería se incendió y, en general, el pequeño vendedor, mi padre, que ya era pobre, dejó de existir. Y hay que vivir, los niños piden comer. No sé qué estaban haciendo, sé que todo fue infructuoso. Compramos una vaca, sin cuernos, sin cuernos, ella se escapó del rebaño y la estábamos buscando, siempre mirando. No recuerdo que bebiéramos suficiente leche. Recuerdo el rostro muy triste de mi madre, que se oscureció cuando cumplió 40 años. Se estaba peinando apresuradamente cerca del espejo, tocador, y yo aparecí. Me acarició la cabeza y dijo: "para que tu hija viva mejor que yo". Algo que ella trató de coser
 
-15
+## 15
+
 gente, alguien a quien servir, ayudando a la gente. No vimos aceite en absoluto. Una vez que entré en la casa de un rico comerciante y vi mantequilla en la mesa, me sorprendió mucho y aún recuerdo cómo le conté a mi madre lo que vi.
 
 Se compró pan tamizado para mi padre, y él cortó las cortezas, y le miramos la boca y babeamos. Compramos papas en el pueblo, en el verano comíamos podridas, espesas, muy sabrosas. Todavía hemos pasado por alto el camino; a Los Rabinovichs estaban hambrientos y los niños fueron liberados en el pueblo, el mayor Khan y Sarochka. Polina y yo fuimos a la escuela, nos dieron de comer.
@@ -126,7 +138,8 @@ Mamá estaba ocupada con algún tipo de trabajo fuera de la casa y yo, que ya er
 
 Había un gran armario en esta habitación y me encantaba sacar la ropa de mi madre y vestirme. En estos años hambrientos y fríos (no había suficiente leña, la casa era vieja y siempre nos estábamos congelando y calentándonos en la estufa holandesa, limpiándola con la espalda y metiéndonos en el horno), saqué una falda larga de seda negra y el exuberante vestido de novia blanco de mi madre con lunares negros. una blusa y se enrolla todo sobre ella. Mamá a veces me encontraba con este vestido, y su rostro sombrío y hundido expresaba pesar por sus sueños perdidos. Durante estos años también recuerdo a mi papá delgado, morboso e incluso enojado y nervioso con nosotros. Bueno, en verano corríamos por el patio, por la calle, hacia el río, hacia los chicos, y en el invierno, mal vestidos, nos quedamos en casa en el pasillo. Estábamos corriendo
 
-dieciséis
+## 16
+
 una mesa larga y grande, escondida detrás de sus patas rizadas, se aferraban unos a otros, a veces peleaban, se amontonaban y volvían a correr hasta que consiguieron un soplón y, llorando, todos empezaron de nuevo.
 
 Un día soleado a finales de agosto, nos vinieron invitados: la tía Malka, que había llegado de Moscú, y su hermano menor Mikhail, que estudió en Leningrado en el instituto médico y, sin el consentimiento de sus padres y todos los parientes, se casó de repente con Khaya Pastron, una niña vivaz y como decían alrededor, no para él (la madre de Geni). Malka me trajo un trozo de chintz con manchas marrones, inmediatamente lo puso sobre la mesa, cortó el cuello, las mangas del kimono y dijo: cóselo usted mismo, tome una aguja e hilo y cóselo cuidadosamente, y haga un cuello redondo con una solapa. Este fue mi primer trabajo independiente y mi preocupación por mi vida creativa: mi madre no tenía tiempo para enseñarme, tenía que ganarse la vida.
@@ -135,7 +148,8 @@ Nuestros vecinos en la casa eran personas mayores: un viejo soltero vivía en un
 
 Los primeros años escolares apenas se recuerdan. Fui a la escuela temprano y por alguna razón no al jardín de infancia (como debería), sino al segundo donde enseñaba la tía Malka. Estaba sentado en el último escritorio y todos los alumnos me miraban con servilismo (la sobrina del profesor). hasta que me di cuenta de que debía estudiar como todos los demás. Recuerda ???? primeros garabatos. Fue entonces cuando el tío Michael trajo
 
-17
+## 17
+
 yo un cuaderno de bocetos con lápices de colores. Fue noticia y lujo. Hasta ahora, hemos escrito en borradores y he usado los libros de oficina que estaban a nuestro alrededor: estrechos, largos. Ya en tercer grado, la tía Malka me trajo de Moscú un cuaderno con una regla inclinada hecha de papel grueso y brillante. Planché la funda del cuaderno y lo puse debajo de la almohada durante la noche. Por la noche me acordé de ella, me levanté, lo saqué y esperé ansiosamente por la mañana para imprimir las pulcras y largas letras alemanas de la escritura gótica en la primera página.
 
 Estaba demasiado lejos para ir a la escuela y mis manos y pies estaban helados. Cuando volvimos a casa, calentamos en un horno enorme, abrimos en el dormitorio y luchamos por un lugar más cercano. En primavera y otoño, me puse la chaqueta ancha de lana de mi madre y me ceñí bien. Mi pelo rojizo y esponjoso reemplazó mi sombrero, no sabíamos nada de bufandas. Nuestra ropa interior era un spenzer, un mono de franela con botones en la espalda y en la cintura. Su mamá lavaba y reparaba todas las semanas, y pasaron de senior a junior.
@@ -144,7 +158,8 @@ También recuerdo que mi estómago siempre estaba retumbando y succionando mi es
 
 También busqué en Leningrado a mis primas segundas Manya y Nina (Nehamka), con quienes estamos en un dormitorio, estrecho, una cama con un matzo ensangrentado, dormido, roído furtivamente, ayudaba a mi madre con las tareas del hogar y escuchaba las quejas de mi padre sobre los parásitos en la pierna ... koge. Manya ya era una señorita y salió a caminar por la noche, y caminamos con la cola. Pasamos tiempo en el porche de la casa.
 
-18
+## 18
+
 Wolfson, ahora ocupado por la aduana. Los jóvenes empleados de esta aduana cuidaban de Manya y sus otros amigos, se sentaban hasta tarde en los bancos de piedra, mordían semillas y caminaban en círculo por la carretera. La fiesta comenzó hacia el final del día y se prolongó hasta altas horas de la noche. ¿Fue a diario o en días festivos?
 
 También fui a caminar con Nina. Nos llevaron en dos - tres por debajo de los brazos y caminamos decorosamente por la acera, como en una demostración, allí, es decir. al bazar, y de regreso - al otro lado, a la escuela comercial. Susurraron suavemente. A veces íbamos a una pastelería a comernos un pastel (si existía esa oportunidad o alguien nos trataba). Un sentimiento de orgullo por ser como todos los demás. Se vistieron con sus mejores galas, se peinaron como adultos, pulcramente. Llegamos a casa de puntillas para no despertar a papá y no escuchar sus quejas. Nuestras habitaciones estaban cubiertas de periódicos y nos despertamos leyendo consignas. poesía, etc. Sabíamos y cantamos todas las canciones: "pollo frito, pollo hervido, el pollo también quiere vivir. Lo atraparon, lo arrestaron, lo metieron en la cárcel".
@@ -153,7 +168,8 @@ El 22 de enero de 1924, por la noche, la tía Malka nos llevó a nuestra casa y 
 
 A la edad de 12 a 13 años, ya era políticamente activo e inteligente. Había tal organización - "Spartak". En mi opinión, existió incluso antes de la organización pionera. Cada espartaquista tenía un bastón: un palo del grosor del mango de una pala, bien, cortado suavemente, de 1/20 metro de largo. Nos sentamos como un rifle. Marchamos con ella, ???? en formación, entrenamiento en formación, cantaba canciones. Muy orgulloso ???? ???? las calles de las vacaciones de Slutsk, en ???? ????, ???? ns de nieve satinada. Era
 
-diecinueve
+## 19
+
 una falda ordinaria con una banda elástica ancha, las costuras no estaban en los lados, sino en la parte delantera y trasera. En el medio de la falda había una abertura en el medio, que se abrochaba con botones. Cuando se abrocharon los botones, se obtuvieron pantalones de harén alrededor de la pierna. Las blusas eran blancas. Luego ya usamos corbatas rojas, insignias con una hoguera, y usamos trajes caqui de Komsomol: calzones, camisas de graduación con cierre y cuello, ceñidas con cinturones e incluso usamos con orgullo una correa para el hombro. Todo este uniforme se completó con una gorra.
 
 [Imagen con título]
@@ -162,7 +178,8 @@ Pioneer: miembro del Komsomol (fila central, tercero desde la izquierda, Polina 
 
 Nosotros, los espartaquistas, unidos en el club Peretsaz. Era un club judío. Fue dirigido por nuestros maestros judíos y todo el trabajo se realizó en el idioma hebreo. En este club me hice amiga de Lenochka Rabinovich, de Perlechka, de mi edad, y de su hermana mayor Sarrochka. No fui un privilegiado en este club, porque no era de origen proletario. Me llevaron a este club, se podría decir, por la tía Malka, que era muy respetada. En la dirección del club había camaradas de alto nivel, respetados por nosotros y muy, muy dedicados al negocio del club, como Movshovich, Lisnyansky, Rabinobich. Pasaron días y noches en este club, a veces tenían hambre, pero no mostraban su condición. El club revivió por la noche. Por lo general, un informe sobre un tema político. Estar activo yo
 
-20
+## 20
+
 Dominaba el trabajo de redacción de resoluciones y las escribía todas las noches. Consistía en frases generales: "La asamblea general, después de escuchar el informe del camarada ... ¡declara que ganó la causa de Lenin! ¡La Gran Revolución de Octubre .....! .... emprendemos .... Firmas .... Secretario T. Mostkov ".
 
 Con qué orgullo me inscribí y dominé el estilo y el contenido monótono y patético del nuevo negocio. Más tarde me convertí en un pionero, un miembro de Komsomol. Recuerdo el desfile, la formación, y cada uno de nosotros estaba atado por el líder pionero senior con una corbata de chintz roja y una insignia en el pecho, un fuego mundial, 5 curvas en llamas, 5 países del mundo. "En la lucha por la causa laboral, ¡prepárate!" - y el trueno volcó - "¡Siempre listo" !! Cantamos mucho y las voces eran buenas, sonoras, y yo tenía voz. Incluso intenté cantar en solitario y funcionó bien. Esto es de trabajo, entrenamiento, trabajo, ¡todo se molerá!
@@ -183,7 +200,8 @@ b. Internacional.
 
 Nuestro club era judío. Se llamaba, en honor a Pered y Sholem, Aleichemab. Más tarde nos dieron un club Z, un edificio de 4 pisos de una antigua escuela comercial, y el club ya era internacional, con diferentes círculos y un gran programa. Fui elegido presidente de la comisión sanitaria, estaba muy orgulloso y de inmediato comencé a limpiar las ventanas de los pisos. Polinochka era miembro de la junta directiva del club. Participé activamente en el trabajo del taller de encuadernación y aprendí este negocio. Nuestro principal trabajo fue, sin embargo, la marcha, la agitación entre los trabajadores y campesinos (íbamos a los pueblos vecinos y montamos obras de teatro, recitación con pirámides). Organizamos fiestas del Primero de Mayo en el bosque, nos abrimos paso con contraseñas secretas, cantamos junto al fuego, dimos vueltas, bailamos.
 
-21
+## 21
+
 Slutsk 1911-1926
 
 Mi amigo de la escuela Atl Muler y yo estamos sentados en la terraza de su casita de madera y enseñamos. Nos estamos preparando para ingresar a una escuela técnica, y ciertamente a una de Moscú. Hace un mes terminamos nuestro plan de siete años y decidimos no perder el tiempo y prepararnos seriamente para el viaje a Moscú.
@@ -194,7 +212,8 @@ Las ventanas del apartamento daban a un patio amplio y fresco, sucio, sin vegeta
 
 Recuerdo las notas que me dio. Uno de ellos cayó en manos de la maestra y, probablemente, mis ojos me traicionaron y me enfermé. Entonces recuerdo que se contó una mala historia sobre él, y decidí sacarlo de mi corazón, pasé y no lo miré, pero luego me atormentaron y lo busqué con los ojos. Se graduó de la escuela de siete años 2 años antes que yo, ingresó en el Colegio Pedagógico de Minsk
 
-22
+## 22
+
 y ahora he venido de vacaciones. Las chicas me dijeron que tenía otro ahí y no me importaba, pero igual ...
 
 Luego viví con mi abuelo, el padre de mi madre. La abuela murió y se quedó solo. Mi madre tenía la carga de una familia bastante numerosa y no había ningún lugar para trabajar ni con qué vivir. Nuestro abuelo era un hombre respetado en la ciudad, honesto, tranquilo, y se le encomendó la compra de pieles y todas las materias primas agrícolas. Estaba en la función pública, era miembro del sindicato y recibía 25 rublos al mes. Vivía en un apartamento, ocupaba 2 habitaciones de la anfitriona, quien nos preparaba la cena. Mi responsabilidad era mantener limpias mis habitaciones, lavar la ropa para mi abuelo y para mí, y lavar los platos. Mi abuelo me prometió que me enviaría a Moscú a estudiar el año que viene, lo que honestamente hizo.
@@ -203,9 +222,12 @@ Mis dos tías vivían en Moscú: Enta Moiseevna, que se graduó de la Academia. 
 
 Mi abuelo me amaba mucho. Si a veces me deleitaba con un bollo que estaba destinado a él, él fingía no darse cuenta. Cuando me senté toda la noche leyendo a Turgenev, él respondió tímidamente desde la habitación contigua: "hija, no dormirás lo suficiente". Si caminaba hasta altas horas de la noche con ÉL y, culpable, golpeaba suavemente la ventana, él se levantaba, gemía y pronunciaba en voz baja para que la anfitriona no escuchara: "Toca más fuerte, estoy mejor cuando tocas fuerte, inmediatamente me levanto y la abro para ti, un Luego me quedo ahí escuchando y no entiendo si tocas o no
 
+
+---
+
 en este punto, el OCR se distorsionó al leer los pliegos como si fueran de una sola página
 
-'
+---
 
 Un departamento lateral en el mismo edificio. El patio era grande, con hogares. edificios, un baño en el fondo, también de piedra y por alguna razón no cerrado. La casa donde vivíamos y otra familia judía estaba ubicada en la parte trasera del patio con ventanas al baño, y fue interesante para nosotros verlos. El porche de nuestra casa y el pasillo eran tablones y estaban torcidos. La casa era baja pero espaciosa. Recuerdo una cocina grande con una estufa rusa, una mesa de cocina larga con q taburetes, un comedor grande también con una mesa larga cubierta con hule y una lámpara de queroseno colgante. A lo largo de las paredes había muebles antiguos y señoriales: un espejo, una estantería y una cama, y ​​dos dormitorios, uno tras otro, uno de los cuales era el de una niña. El hecho es que en el año 20 de hambre, la familia de la prima de mi madre vino a nosotros desde Saratov: su esposo y sus 2 niñas Masha y China. Su madre murió allí de tuberculosis. Se instalaron temporalmente con nosotros y las chicas, varios años mayores que yo, dormían conmigo en este dormitorio. El padre de las niñas se fue a buscar trabajo. Así que ahora dicen, y más honestamente fui a Minsk a comprar y vender algo a un precio más alto, es decir, ganar dinero. Estos fueron los años del bandidaje. En el camino de regreso, todo el tren de caballos cargado con mercancías fue rodeado por los indios, quienes ataron a todos los vivos a un árbol, los rociaron con queroseno y les prendieron fuego. Entonces Isaac, el padre de Masha y Nina Guityk, murió. Y las chicas se quedaron con nosotros para siempre. Por alguna razón, mi padre llamó a nuestro dormitorio "leg - koge". Esto es lo que ... n, pz Talmud. En el otro dormitorio había camas de niños, había un n '"pppka donde se secaba toda nuestra ropa, lavada por la noche por mi madre, y por la mañana vestían limpias. También recuerdo un incendio en el centro de la ciudad. Durante mucho tiempo". En esos años duros y medio muertos de hambre, mi abuelo se alimentó bastante bien y, como dicen, ella no conocía la necesidad. Mi madre vivía en la calle Sadovaya, la antigua calle de los ricos, y después del incendio solo la sinagoga y dos casas de un lado permanecieron intactas. Todo lo demás eran cenizas. Recuerdo el hermoso y alto porche de piedra, la puerta de entrada de la casa del amo. Detrás de él hay un largo pasillo de una hermosa casa con grandes ventanales a la calle. En mi memoria, en este ii, cómo cambió el poder, en lo que no pienso ni siquiera ahora, polacos opshi, guardias blancos, bolcheviques, etc. Recuerdo que el padre de Ippoipp estaba en las casas quemadas, y corrí tras él, y él amenazó, h,., Pd y uyiga. Probablemente tenía unos 10 años. Estudié en la escuela RKKN y fui a la clase preparatoria a los 6 años. Milkakh y yo era maestra en el primer o segundo grado, y fui a verla; no podía entender por qué no me permitían ir allí. donde estaba ubicada la aduana y recuerdo a un tal Smirnov, ¡un empleado! en,. Me recuerdo con un gran jersey de punto, el de mi madre, y recuerdo que esta costumbre. Nosotros, los niños y jóvenes del barrio, saltamos de un lado a otro por la noche. saltó. También recuerdo - llegué al bazar y me quedé en este porche y roí semillas de girasol. Appniruyaish, chggi olvidé mi cuaderno. Regresé a casa, y en el camino probablemente me confiscaron esta casa, y los dueños de los Wolfson vivían en 22
 

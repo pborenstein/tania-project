@@ -1,5 +1,6 @@
 ---
 title: What is this?
+layout: layouts/post.njk
 ---
 
 About a week ago
