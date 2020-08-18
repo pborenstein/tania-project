@@ -25,6 +25,11 @@ a memoir of his mother.
 The pictures I got from my uncle
 were pictures of the book.
 
+I thought it would be interesting
+to try to scan the pages and translate them.
+If you're interested, you can
+[read all about it.](https://github.com/pborenstein/tania-project/blob/master/project-pieces/README.md)
+
 
 
 

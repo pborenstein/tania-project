@@ -42,17 +42,17 @@ Files.
 
 -   `README.md`<br>
     This.
+
 -   `librotiataniaruso.zip`<br>
     Source for above. From Isidoro's email.
--   `package-lock.json`<br>
-    Node droppings.
--   `package.json`<br>
-    Node droppings.
+
 -   `russian-single-page.pdf`<br>
     `russian.pdf` as single pages instead of spreads.
+
 -   `russian.pdf`<br>
     The pictures of spreads in `librotiataniaruso/`
     combined into a PDF file.
+
 -   `tania.txt`<br>
     Raw Cyrillic text made like so:
       -   OCR Cyrillic with PDFPenPro.
