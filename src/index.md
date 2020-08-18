@@ -13,8 +13,9 @@ layout: layouts/base.njk
     {%-for post in collections.posts -%}
       <li><a href={{post.url}}>{{post.data.title}}</a><br>
       {{post.data.description}}<br><br></li>
-
     {%- endfor -%}
+
+    <li><a href="/assets/split.pdf">Scanned PDF</a></li>
 </ul>
 
 
