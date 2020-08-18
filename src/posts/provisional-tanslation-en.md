@@ -1,3 +1,7 @@
+---
+title: Provisonal Translastion (EN)
+---
+
 Foreword
 
 Although my name is on the cover, I am not the author of this book. It consists entirely of the memoirs of my mother, Tatyana (Tayba) Izrailevna Mostkova, written in the period 1976 - 1980, her personal letter to Boris P, where she tells about the biography and life of my father, Baskin Joseph Moiseevich, and several oral stories, written down from her words by my father. About meeting with relatives in Mexico and the USA 40 years later, my mother told in letters from there.

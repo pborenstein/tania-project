@@ -1,3 +1,8 @@
+---
+title: Traducción Provisional (ES)
+---
+
+
 Prefacio
 
 Aunque mi nombre está en la portada, no soy el autor de este libro. Consiste íntegramente en las memorias de mi madre, Tatyana (Tayba) Izrailevna Mostkova, escritas en el período 1976-1980, su carta personal a Boris P, donde cuenta la biografía y la vida de mi padre, Baskin Joseph Moiseevich, y varias historias orales escrito de sus palabras por mi padre. Acerca de reunirse con familiares en México y Estados Unidos 40 años después, contó mi madre en cartas desde allí.
