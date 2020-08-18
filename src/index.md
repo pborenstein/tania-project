@@ -6,7 +6,7 @@ layout: layouts/base.njk
 
 
 - <a style="font-weight:bold" class="head" href="/about">What is this?</a><br>
-  This is the memoir of Tania Mostkoff
+  This is the memoir of Tania Mostkoff,
   daughter of Israel and Shifra Mostkoff
 
 <ul>
