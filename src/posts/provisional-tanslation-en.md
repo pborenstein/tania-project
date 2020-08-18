@@ -1,5 +1,5 @@
 ---
-title: Provisonal Translation (EN)
+title: 🇺🇸 Provisonal Translation (EN)
 description: Machine translation of Russian text to English.
 date: 2020-01-03
 ---

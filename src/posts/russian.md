@@ -1,5 +1,5 @@
 ---
-title: Russian OCR Transcription (RU)
+title: 🇷🇺 Russian OCR Transcription (RU)
 description: Russian text scanned from the PDF file.
 date: 2020-01-02
 ---
